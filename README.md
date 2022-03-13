@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning IT at the university of Ghana ...
 - 💞️ I’m looking to collaborate on ..my studies.
-- 📫 How to reach me ...You cab reach me on 0595732500
+- 📫 How to reach me ...You can reach me on 0595732500
 
 <!---
 Pearl-Ashartey/Pearl-Ashartey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
